@@ -885,14 +885,12 @@
 			<dict>
 				<key>AAPL,slot-name</key>
 				<string>WLAN</string>
-				<key>compatible</key>
-				<string>pci14e4,43a3</string>
 				<key>device_type</key>
-				<string>Airport Extreme</string>
+				<string>AirPort Extreme</string>
 				<key>model</key>
-				<string>Dell DW1820 (BCM4350) 802.11ac wireless</string>
+				<string>Apple AirPort Extreme Broadcom BCM4360 802.11ac Wireless Network Adapter</string>
 				<key>name</key>
-				<string>Airport</string>
+				<string>Apple AirPort Extreme</string>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1d,0x0)</key>
 			<dict>
